@@ -1,1 +1,1 @@
-!(四個基本DFD的符號)[DFD.jpg]
+![四個基本DFD的符號](DFD.jpg)
